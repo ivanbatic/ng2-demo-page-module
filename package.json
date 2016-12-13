@@ -1,0 +1,18 @@
+{
+    "name": "ng2-demo-page-module",
+    "version": "0.1.0",
+    "peerDependencies": {
+        "@angular/common": "^2.0.0",
+        "@angular/compiler": "^2.0.0",
+        "@angular/core": "^2.0.0"
+    },
+    "devDependencies": {
+        "@angular/common": "^2.0.0",
+        "@angular/compiler": "^2.0.0",
+        "@angular/core": "^2.0.0"
+    },
+    "dependencies": {
+        "equals": "^1.0.5",
+        "ng2-material-select-beta": "https://github.com/ivanbatic/ng2-material-select#908f1f2",
+    }
+}
