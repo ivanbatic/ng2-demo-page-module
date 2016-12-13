@@ -1,6 +1,6 @@
 import {NgModule} from "@angular/core";
 import {CommonModule} from "@angular/common";
-import {Ng2SelectModule} from "ng2-material-dropdown-alpha/src/ng2-select.module";
+import {Ng2SelectModule} from "ng2-material-select/src/ng2-select.module";
 import {DemoPageComponent} from "./demo-page.component";
 
 
