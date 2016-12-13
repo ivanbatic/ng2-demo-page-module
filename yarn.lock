@@ -14,23 +14,6 @@
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/@angular/core/-/core-2.3.0.tgz#e60bd398584d69467d075d001b718364174a2534"
 
-"@jkroso/type@1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@jkroso/type/-/type-1.1.1.tgz#22903a346f633f2c65c0f6a938caafc43f181f17"
-
-equals@^1.0.5:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/equals/-/equals-1.1.0.tgz#eeb2ed0e811191cd3a590ae67f37b90df3f170d4"
-  dependencies:
-    "@jkroso/type" "1"
-
-"ng2-material-dropdown-alpha@https://github.com/ivanbatic/ng2-material-select#908f1f2":
-  version "0.1.4"
-  resolved "https://github.com/ivanbatic/ng2-material-select#908f1f2"
-  dependencies:
-    equals "^1.0.5"
-    ng2-material-dropdown "0.4.3"
-
-ng2-material-dropdown@0.4.3:
-  version "0.4.3"
-  resolved "https://registry.yarnpkg.com/ng2-material-dropdown/-/ng2-material-dropdown-0.4.3.tgz#4a5aa2321f1af8d5f13c8e7bcfa657619a4913d7"
+"demo-button-module@https://github.com/ivanbatic/ng2-demo-button-module#3aec3cb":
+  version "0.1.0"
+  resolved "https://github.com/ivanbatic/ng2-demo-button-module#3aec3cb"
