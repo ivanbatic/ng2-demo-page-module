@@ -1,13 +1,12 @@
-import {Component, Input} from "@angular/core";
+import {Component} from "@angular/core";
 @Component({
     selector: "demo-page",
     template: `
-        Page Content: {{ }}
+        Page Content: <ng-content></ng-content>
     `
 
 
 })
 export class DemoPageComponent {
-    @Input()
-    public options;
+
 }

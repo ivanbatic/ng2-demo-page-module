@@ -8,7 +8,7 @@ import {DemoPageComponent} from "./demo-page.component";
         CommonModule,
     ],
     declarations: [
-        DemoPageModule,
+        DemoPageComponent,
     ],
     exports: [
         DemoPageComponent
